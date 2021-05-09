@@ -173,13 +173,11 @@ footer img {
 
 .service-box {
   display: inline-block;
-  width: 24%;
+  width: 28%;
   padding: 20px 30px;
-  line-height: 1;
 }
 
 .service-box img {
-  width: 80px;
   margin-bottom: 15px;
 }
 
