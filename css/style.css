@@ -145,8 +145,8 @@ footer img {
 }
 
 .site-section-inside {
-  width: 80%;
-  max-width: 1200px;
+  /*width: 80%;
+  max-width: 1200px;*/
   margin-left: auto;
   margin-right: auto;
 }
@@ -175,7 +175,7 @@ footer img {
 
 .service-box {
   display: inline-block;
-  width: 27%;
+  width: 29%;
   padding: 20px 30px;
 }
 
@@ -221,7 +221,7 @@ footer img {
   padding-top: 15px;
 }
 
-testimonial-author span {
+.testimonial-author span {
   color: #999;
   font-size: 14px;
 }
