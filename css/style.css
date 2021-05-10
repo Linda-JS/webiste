@@ -3,7 +3,7 @@
 /* default styling given to the whole body of visible content */
 body {
   margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Courier New', Courier, monospace, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: 16px;
   line-height: 1.5;
 }
@@ -113,6 +113,8 @@ footer img {
 .hero-title {
   margin: 0;
   font-size: 100px;
+  color: #333;
+  font-family: 'Courier New', Courier, monospace, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .hero-content p {
@@ -173,7 +175,7 @@ footer img {
 
 .service-box {
   display: inline-block;
-  width: 28%;
+  width: 27%;
   padding: 20px 30px;
 }
 
@@ -249,6 +251,7 @@ testimonial-author span {
   }
   .hero-title {
     font-size: 30px;
+    
   }
   .hero-content p {
     font-size: 16px;
