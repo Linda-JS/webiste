@@ -105,7 +105,7 @@ footer img {
 }
 
 .hero-content {
-  color: white;
+  color: #6f6d6d;
   padding-top: 130px;
   line-height: 1;
 }
@@ -166,7 +166,7 @@ footer img {
 /*About*/
 
 .about {
-  background: #ecf0f1;
+  background:#565252;
   width: 100%;
   padding: 50px 0;
 }
